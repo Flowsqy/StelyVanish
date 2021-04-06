@@ -1,4 +1,4 @@
-name: StelyPlugin
+name: StelyVanish
 author: Flowsqy
 version: ${project.version}
 main: fr.flowsqy.stelyvanish.StelyVanishPlugin
